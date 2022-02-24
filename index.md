@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Adrienne Hoarfrost's website!
 
-You can use the [editor on GitHub](https://github.com/ahoarfrost/ahoarfrost.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a NASA Postdoctoral Fellow at NASA Ames Research Center, developing deep learning and machine learning approaches to understanding complex biological systems and their interactions with the environment. I apply these techniques to problems in oceanography, carbon cycling and biogeochemistry, and space biology - to enable our understanding of life on Earth, in space, and in our search for life on other planets. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Featured Projects
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahoarfrost/ahoarfrost.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- LookingGlass is a deep learning model encoding a "universal language of life" broadly useful for transfer learning applications in biology; [preprint](https://www.biorxiv.org/content/10.1101/2020.12.23.424215v2), [pretrained models](https://github.com/ahoarfrost/lookingglass), and [fastBio python package](https://github.com/ahoarfrost/fastBio) for doing deep learning with biological sequences are available.
+- [MetaSeek](https://www.metaseek.cloud/) is a platform for searching, filtering, and curating biological sequencing datasets for your meta-analyses, enhanced by machine learning to constrain poorly constrained metadata.
+- [CRISP](https://gitlab.com/frontierdevelopmentlab/astronaut-health/crisp/-/tree/CRISPv1_FDL2020) is a platform for identifyng causal drivers from high-D, low-N, heterogeneous biological datasets.
